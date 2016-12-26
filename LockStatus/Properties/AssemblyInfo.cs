@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("LockStatus")]
-[assembly: AssemblyDescription("Description: Lock Status indicator helps you to identify present status of caps and Numpad. This software is created because in some keyboards you cannot see led indicators to show the status of caps and numpad ON or OFF. I have created this software because am facing the same problem and decided to share it with everyone. This Software comes with absolutely no warranty. This is open source software under GPL, for source code please visit ()")]
+[assembly: AssemblyDescription("Description: Lock Status indicator helps you to identify present status of caps and Numpad. This software is created because in some keyboards you cannot see led indicators to show the status of caps and numpad ON or OFF. I have created this software because am facing the same problem and decided to share it with everyone. This Software comes with absolutely no warranty. This is open source software under GPL, for source code please visit ("https://github.com/immohanravi/lockstatus")")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Robot Inc")]
 [assembly: AssemblyProduct("LockStatus")]
